@@ -12,4 +12,5 @@ Pulite is a lightweight and minimal chat service designed for quick communicatio
 
 [Pulite website](https://suzukifn321-commits.github.io/pulite/)
 
-##### Creator: tasura  
+##### This project was created with [TurboWarp](https://turbowarp.org/).
+##### Creator: tasura
