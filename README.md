@@ -13,7 +13,7 @@ Pulite is a lightweight and minimal chat service designed for quick communicatio
 ## How to Access pulite
 
 ### [Access the web version](https://suzukifn321-commits.github.io/pulite/)
-## In restricted environments (such as school or workplace computers)
+#### In restricted environments (such as school or workplace computers)
 ### Enter the following into the URL bar:[url](https://github.com/suzukifn321-commits/pulite/blob/main/Access/data%3Atext.txt)
 ##### This method is not recommended.
 
