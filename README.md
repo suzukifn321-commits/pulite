@@ -1,4 +1,4 @@
-![logo](img/logo.png)
+![logo](home/img/logo.png)
 # pulite
 ## pulite - Chat Service
 ### Country of Origin: Japan
