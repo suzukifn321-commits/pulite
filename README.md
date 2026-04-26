@@ -18,7 +18,6 @@ Pulite is a lightweight and minimal chat service designed for quick communicatio
 ##### This method is not recommended.
 
 # jp:
-
 # pulite
 ## チャットサービス
 ### 作成国：日本
