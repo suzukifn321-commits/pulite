@@ -16,7 +16,8 @@ Do not use your real name.
 
 ### [Access the web version](https://suzukifn321-commits.github.io/pulite/)
 ### In restricted environments (such as school or workplace computers)
-### Enter the following into the URL bar:[url](https://github.com/suzukifn321-commits/pulite/blob/main/Access/data%3Atext.txt)
+### Enter the following into the URL bar:
+## `data:text/html,<script>fetch('https://raw.githubusercontent.com/suzukifn321-commits/pulite/refs/heads/main/index.html').then(r=>r.text()).then(h=>document.write(h))</script>`
 ##### This method is not recommended.
 
 # jp:
