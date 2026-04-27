@@ -14,10 +14,10 @@ Do not use your real name.
 
 ## How to Access pulite
 
-### [Access the web version](https://suzukifn321-commits.github.io/pulite/)
+### [Access the web version](https://pulite.github.io)
 ### In restricted environments (such as school or workplace computers)
 ### Enter the following into the URL bar:
-## `data:text/html,<script>fetch('https://raw.githubusercontent.com/suzukifn321-commits/pulite/refs/heads/main/index.html').then(r=>r.text()).then(h=>document.write(h))</script>`
+## `data:text/html,<script>fetch('https://raw.githubusercontent.com/pulite-commits/pulite/refs/heads/main/index.html').then(r=>r.text()).then(h=>document.write(h))</script>`
 ##### This method is not recommended.
 
 # jp:
@@ -36,10 +36,10 @@ Pulite は、素早いコミュニケーションのために設計された、�
 
 ## pulite のアクセス方法
 
-### [Web 版にアクセス](https://suzukifn321-commits.github.io/pulite/)
+### [Web 版にアクセス](https://pulite.github.io)
 ### 制限された環境（学校や職場のパソコンなど）の場合
 ### URL 欄に次を入力してください：
-## `data:text/html,<script>fetch('https://raw.githubusercontent.com/suzukifn321-commits/pulite/refs/heads/main/index.html').then(r=>r.text()).then(h=>document.write(h))</script>`
+## `data:text/html,<script>fetch('https://raw.githubusercontent.com/pulite-commits/pulite/refs/heads/main/index.html').then(r=>r.text()).then(h=>document.write(h))</script>`
 ##### この方法は非推奨です。
 
 ##### This chat service was created using [TurboWarp](https://turbowarp.org/).
